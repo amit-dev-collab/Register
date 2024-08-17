@@ -16,6 +16,12 @@ body {
     display: flex;
     align-items: baseline;
 }
+ .checkbox input{
+    width: 20px !important;
+    margin-right: 10px !important;
+    padding: 0;
+    
+}
 .register-container {
     background-color: white;
     padding: 20px;
