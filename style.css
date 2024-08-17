@@ -12,6 +12,10 @@ body {
     justify-content: center;
     height: 82px;
 }
+.checkbox{
+    display: flex;
+    align-items: baseline;
+}
 .register-container {
     background-color: white;
     padding: 20px;
